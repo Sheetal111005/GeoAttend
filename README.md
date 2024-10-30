@@ -47,5 +47,5 @@ The project is structured into separate folders for client and server:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/geoAttend.git
+   git clone https://github.com/Sheetal111005/GeoAttend
    cd geoAttend
